@@ -1,6 +1,6 @@
  <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
  
- # Hi, I'm Madhan Gannarapu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">👨🏻‍💻
+ # Hi, I'm Madhan Gannarapu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👨🏻‍💻
  <p align="left"> <img src=https://komarev.com/ghpvc/?username=madhangannarapu alt=madhangannarapu/></p>
 
 
