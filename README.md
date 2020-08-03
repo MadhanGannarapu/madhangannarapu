@@ -9,4 +9,7 @@
 - 👯 I’m looking to collaborate on Flutter
 - 📫 How to reach me: madhan.gannarapu410@gmail.com
 
-
+<p align="left"> <img src=https://img.shields.io/badge/Flutter-madhan?style=for-the-badge&logo=Flutter alt=Flutter/></p>
+<p align="left"> <img src=https://img.shields.io/badge/Angular-madhan?style=for-the-badge&logo=Angular alt=Angular/></p>
+<p align="left"> <img src=https://img.shields.io/badge/node.js-madhan?style=for-the-badge&logo=node.js&logoColor=white alt=Nodejs/></p>
+<p align="left"> <img src=https://img.shields.io/badge/PostgreSQL-madhan?style=for-the-badge&logo=PostgreSQL alt=PostgreSQL/></p>
