@@ -23,3 +23,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=Postgresql">
   </a>
 </p>
+<a href="https://github.com/madhangannarapu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhangannarapu&layout=compact" />
+</a>
