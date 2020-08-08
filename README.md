@@ -22,5 +22,4 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=Postgresql">
   </a>
- <a href="#"> <img src=https://komarev.com/ghpvc/?username=madhangannarapu alt=madhangannarapu/></a>
 </p>
