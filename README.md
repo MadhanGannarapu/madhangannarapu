@@ -9,9 +9,6 @@
 - 📫 How to reach me: madhan.gannarapu410@gmail.com
 
 ### Languages and tools:
-  <a href="https://github.com/madhangannarapu/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhangannarapu&layout=compact" />
-</a>
 
 <p>
  <a href="https://flutter.dev/"  target="_blank">
