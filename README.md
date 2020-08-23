@@ -3,10 +3,10 @@
  # Hi, I'm Madhan Gannarapu <img src="https://raw.githubusercontent.com/madhangannarapu/madhangannarapu/master/assets/wave.gif" width="30px">👨🏻‍💻
  
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter
-- 📫 How to reach me: madhan.gannarapu410@gmail.com
+- 🔭  I’m currently working on Flutter
+- 🌱  I’m currently learning Flutter
+- 👯  I’m looking to collaborate on Flutter
+- 📫  How to reach me: madhan.gannarapu410@gmail.com
 
 ### Languages and tools:
 
