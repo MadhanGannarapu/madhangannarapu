@@ -1,6 +1,6 @@
  <img align ="right" src = "https://raw.githubusercontent.com/madhangannarapu/madhangannarapu/master/assets/gitUser.jpg" width="150" height="150">
  
- # Hi, I'm Madhan Gannarapu <img src="https://raw.githubusercontent.com/madhangannarapu/madhangannarapu/master/assets/wave.gif" width="30px">👨🏻‍💻
+ # Hi, I'm Madhan Gannarapu <img src="https://raw.githubusercontent.com/madhangannarapu/madhangannarapu/master/assets/wave.gif" width="30px" height="30px">👨🏻‍💻
  
 
 - 🔭  I’m currently working on Flutter
